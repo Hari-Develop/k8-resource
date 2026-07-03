@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: pod_annotations
-  lables:
+  labels:
     app: web
     env: dev
     tier: backend
